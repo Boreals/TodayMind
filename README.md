@@ -1,5 +1,5 @@
 # ✏️ TodayMind [中文说明](https://github.com/cyanzhong/TodayMind/blob/master/README_CN.md)
-Make Reminder Great Again!
+Make Reminders Great Again!
 
 ![image](https://raw.githubusercontent.com/cyanzhong/TodayMind/master/Resource/demo.gif)
 
