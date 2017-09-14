@@ -1,3 +1,23 @@
+# ⚠️ NO LONGER UNDER MAINTENANCE
+
+Sorry guys, I'm going to close this repo soon.
+
+Here're 3 reasons so I made the decision:
+
+- The core concept of TodayMind is already open sourced, it's good enough as a `widget` demo
+- The `Social SDK` is gone, share extension is no longer a way to make a fancy widget
+- The most important is, bad thing happened:
+
+<img src='https://user-images.githubusercontent.com/6745066/30410332-086aee9c-98d0-11e7-9e48-d0abd0af5b24.PNG' width='320px'/>
+
+Fight with a thief is kinda waste my life.
+
+There's no `whole` open source projects from my side in the future, although I do want to share nice things with community.
+
+Maybe I will open source some `parts` of my app in the future, like the [LunarCore](https://github.com/cyanzhong/LunarCore) does.
+
+Sorry for the decision, bye ❤️.
+
 # ✏️ TodayMind [中文说明](https://github.com/cyanzhong/TodayMind/blob/master/README_CN.md)
 Make Reminders Great Again!
 
