@@ -4,7 +4,7 @@ Sorry guys, I'm going to close this repo soon.
 
 Here're 3 reasons so I made the decision:
 
-- The core concept of TodayMind is already open sourced, it's good enough as a `widget` demo
+- The core concept of TodayMind is already opened source, it's good enough as a `widget` demo
 - The `Social SDK` is gone, share extension is no longer a way to make a fancy widget
 - The most important is, bad thing happened:
 
